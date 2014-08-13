@@ -4,7 +4,7 @@ BouncingBalls
 Overview: 
 
 Designed an algorithm to implement n(n>=1) balls bouncing within the window site,
-and can also set wall obstables between them.
+and can also set wall obstacles between them.
 
 For the video demo, please click the image below:
 
