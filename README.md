@@ -4,7 +4,7 @@ Java-Projects
 These projects are developed by Bojie Jiang using Eclipse Java IDE.
 
 
-BouncingBalls
+Bouncing Balls
 =============
 
 Overview: 
@@ -17,7 +17,7 @@ For the video demo, please click the image below:
 [![ScreenShot](http://i58.tinypic.com/2ezp8wj.jpg)](http://youtu.be/vZOsfFx9YXU)
 
 
-Crop-Image
+Crop Image
 ==========
 
 
@@ -58,7 +58,7 @@ Overview:
 (http://youtu.be/OVn12eAaZmc)
 
 
-RobotGame
+Robot Game
 =========
 
 Overview:
